@@ -1,1 +1,2 @@
-"# My First Project"
+# python-practice
+My first Python practice repository
